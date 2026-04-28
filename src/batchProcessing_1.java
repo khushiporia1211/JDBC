@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class batchProcessing_1 {
     private static final String url = "jdbc:mysql://127.0.0.1:3306/mydb";
     private static final String username="root";
-    private static final String password = "k2H@ushi12";
+    private static final String password = "your paasword";
 
     public static void main(String[] args) {
         try{
